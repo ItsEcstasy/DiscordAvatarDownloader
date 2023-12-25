@@ -1,0 +1,6 @@
+{
+    "token": "Bot-Token",
+    "ServerIDs": ["ServerID"],
+    "outputDir": "Servers/"
+  }
+  
